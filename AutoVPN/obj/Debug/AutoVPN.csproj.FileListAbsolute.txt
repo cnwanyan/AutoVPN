@@ -1,0 +1,8 @@
+D:\work\AutoVPN\AutoVPN\AutoVPN\bin\Debug\AutoVPN.exe
+D:\work\AutoVPN\AutoVPN\AutoVPN\bin\Debug\AutoVPN.pdb
+D:\work\AutoVPN\AutoVPN\AutoVPN\obj\Debug\AutoVPN.csprojResolveAssemblyReference.cache
+D:\work\AutoVPN\AutoVPN\AutoVPN\obj\Debug\AutoVPN.Form1.resources
+D:\work\AutoVPN\AutoVPN\AutoVPN\obj\Debug\AutoVPN.Properties.Resources.resources
+D:\work\AutoVPN\AutoVPN\AutoVPN\obj\Debug\AutoVPN.csproj.GenerateResource.Cache
+D:\work\AutoVPN\AutoVPN\AutoVPN\obj\Debug\AutoVPN.exe
+D:\work\AutoVPN\AutoVPN\AutoVPN\obj\Debug\AutoVPN.pdb
